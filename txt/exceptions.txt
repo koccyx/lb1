@@ -1,0 +1,66 @@
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 20 20:44:15 2023
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 20 21:08:40 2023
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 20 21:29:36 2023
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 20 21:34:06 2023
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 20 21:34:48 2023
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 20 21:35:28 2023
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 20 21:37:17 2023
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 20 21:37:28 2023
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 20 21:37:32 2023
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 20 21:37:34 2023
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 20 21:45:03 2023
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 20 21:45:12 2023
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 20 21:45:15 2023
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 20 21:46:45 2023
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 20 21:47:11 2023
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 20 21:47:23 2023
+
+List is empty Current Time and Date: Wed Sep 20 22:08:15 2023
+
+List is empty Current Time and Date: Wed Sep 20 22:08:31 2023
+
+List is empty Current Time and Date: Wed Sep 20 22:09:28 2023
+
+List is empty Current Time and Date: Wed Sep 20 22:10:14 2023
+
+List is empty Current Time and Date: Wed Sep 27 08:43:54 2023
+
+Invalid choice, try again
+ Current Time and Date: Wed Sep 27 08:43:56 2023
+
+List is empty Current Time and Date: Wed Oct 25 13:27:53 2023
+
+Invalid choice, try again
+ Current Time and Date: Tue Nov  7 18:25:35 2023

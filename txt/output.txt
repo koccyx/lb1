@@ -1,0 +1,6 @@
+
+data: 10000 next: 0x55f1fa8f2010 -> data: -5 next: 0x55f1fa8f1ff0 -> data: 20 next: 0x55f1fa8f1fd0 -> data: -1 next: 0x55f1fa8f1fb0 -> data: 231 next: 0x55f1fa8f1f90 -> data: 10 next: 0 -> 
+data: 222 next: 0x55f1fa8f2030 -> data: 10000 next: 0x55f1fa8f2010 -> data: -5 next: 0x55f1fa8f1ff0 -> data: 20 next: 0x55f1fa8f1fd0 -> data: -1 next: 0x55f1fa8f1fb0 -> data: 231 next: 0x55f1fa8f1f90 -> data: 10 next: 0 -> 
+data: 10000 next: 0x55e77ad5e400 -> data: -5 next: 0x55e77ad5e3e0 -> data: 20 next: 0x55e77ad5e3c0 -> data: -1 next: 0x55e77ad5e3a0 -> data: 231 next: 0x55e77ad5e380 -> data: 10 next: 0x55e77ad5e340 -> data: 3333 next: 0 -> 
+data: -5 next: 0x55e77ad5e400 -> data: -1 next: 0x55e77ad5e3e0 -> data: 10000 next: 0x55e77ad5e3c0 -> data: 20 next: 0x55e77ad5e3a0 -> data: 231 next: 0x55e77ad5e380 -> data: 10 next: 0x55e77ad5e340 -> data: 3333 next: 0 -> 
+data: 2 next: 0x55adae6eedd0 -> data: 0 next: 0 -> 
